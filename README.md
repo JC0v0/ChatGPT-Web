@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 
 ## 运行
-运行根目录下的`web.py` 文件就可以在终端对话
+运行根目录下的`web.py` 文件
 ```bash
 chainlit run web.py
 ```
