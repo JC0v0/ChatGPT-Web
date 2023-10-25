@@ -5,3 +5,5 @@ OPNEIA_API_KEY = ""
 #alapi有些工具需要 token 申请地址https://admin.alapi.cn/
 token = ""
 
+username = "admin"
+password = "123456"

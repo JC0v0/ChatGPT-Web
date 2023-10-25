@@ -3,5 +3,5 @@ openai
 baidu_aip
 pygame
 duckduckgo-search
-streamlit
+chainlit
 wikipedia
