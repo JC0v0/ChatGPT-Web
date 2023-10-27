@@ -1,5 +1,4 @@
 from langchain.memory import ConversationBufferMemory
-from config import memory
 from langchain.prompts import MessagesPlaceholder
 from langchain.memory.chat_message_histories import ChatMessageHistory
 
@@ -8,8 +7,6 @@ agent_kwargs = {
 }
 msgs = ChatMessageHistory(key="special_app_key")
 
-if memory == 'ConversationBufferMemory':
-
-    memory = ConversationBufferMemory(chat_memory=msgs,memory_key="memory", return_messages=True)
+memory = ConversationBufferMemory(chat_memory=msgs,memory_key="memory", return_messages=True)
 
 
