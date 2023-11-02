@@ -1,11 +1,11 @@
-# JC-WebChat
+# ChatGPT-Web
 
 ![WechatIMG6489](https://github.com/JC0v0/JC-WebChat/assets/108552928/37412aab-9a34-4604-b3bf-64e3d088d220)
 
 克隆项目代码：
 ```bash
-git clone https://github.com/JC0v0/JC-WebChat.git
-cd JC-WebChat/
+git clone https://github.com/JC0v0/ChatGPT-Web.git
+cd ChatGPT-Web/
 ```
 
 安装核心依赖 (必选)：
