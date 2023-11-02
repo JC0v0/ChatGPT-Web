@@ -2,6 +2,12 @@
 
 ![WechatIMG6489](https://github.com/JC0v0/JC-WebChat/assets/108552928/37412aab-9a34-4604-b3bf-64e3d088d220)
 
+
+> **Note**
+> 本项目为个人AI助手，建议个人使用或小型团队使用，不建议对外开放使用以免发生一些未知错误
+>
+> 如你有更多的工具想法也可以提issues，我会为你提供更多工具
+
 克隆项目代码：
 ```bash
 git clone https://github.com/JC0v0/ChatGPT-Web.git
